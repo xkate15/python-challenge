@@ -1,0 +1,13 @@
+PyBank Analysis
+
+Total Months:  86
+
+Total:  $ 22564198
+
+Average Change:  $ 262374.3953488372
+
+Greatest Increase in Profits:  Date              Sep-16
+Profit/Losses    1141840
+
+Greatest Decrease in Profits:  Date               Apr-10
+Profit/Losses    -1194133
